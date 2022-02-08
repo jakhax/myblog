@@ -36,7 +36,7 @@ exclude:
   - src
 
 # Google Analytics
-google_analytics: G-YZG4LZRN3T
+google_analytics: UA-116336729-1
 
 
 # Exclude from processing.
